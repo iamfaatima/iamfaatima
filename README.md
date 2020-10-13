@@ -2,9 +2,7 @@
 
 
 
-
-- 🎓 I’m currently doing my bachelor's in Software Engineering from PUCIT
-- 🌱 I’m currently learning MERN Stack Development
+- 🎓 I’m currently doing my bachelor's in Software Engineering from PUCIT 
 - 🌱 I know C++ and Python
 - 👩‍💼 I’m a Front-End Web Developer with a good grip on HTML5, CSS3, JavaScript, Bootstrap 4 and SCSS
 - 📫 How to reach me: iamfaatima@gmail.com
