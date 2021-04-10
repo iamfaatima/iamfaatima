@@ -2,9 +2,14 @@
 
 
 
-- 🎓 I’m currently doing my bachelor's in Software Engineering from PUCIT 
-- 🌱 I know C++ and Python
-- 👩‍💼 I’m a Front-End Web Developer with a good grip on HTML5, CSS3, JavaScript, Bootstrap 4 and SCSS
+- 🎓  I’m currently doing my bachelor's in Software Engineering from PUCIT 
+- 💻 Microsoft Learn Student Ambassador
+- 👩‍Front End Web Developer
+- 💼 Former Web Development intern at interns.pk
+- 💼 Former Official Campus Ambassador at International MUN
+- ✍️ Part-time writer at iamfaatima.medium.com
+- 💆 Hobbies: coding, reading tech blogs, books and photography. 
 - 📫 How to reach me: iamfaatima@gmail.com
 - 😄 Pronouns: She/Her
+- 🌱 I have the confidence to make new connections faster and I communicate well.
 - ⚡ Fun fact: I'm a blogger and a photographer. Find me at ✍️https://fatimasvoice.blogspot.com/ and 📸https://www.instagram.com/iamfaatima/
