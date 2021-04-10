@@ -3,7 +3,7 @@
 
 
 - 🎓  I’m currently doing my bachelor's in Software Engineering from PUCIT 
-- 💻 Microsoft Learn Student Ambassador
+- 💻 Microsoft Learn Student Ambassador at Microsoft
 - 👩‍Front End Web Developer
 - 💼 Former Web Development intern at interns.pk
 - 💼 Former Official Campus Ambassador at International MUN
