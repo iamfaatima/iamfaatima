@@ -3,9 +3,9 @@
 
 
 - 🎓 I’m currently doing my bachelor's in Software Engineering from PUCIT 
-- 😎 Google DSC Lead at GDSC PUCIT 
-- 💻 Microsoft Learn Student Ambassador at Microsoft
-- 👩‍Front End Web Developer
+- 😎 ex Google DSC Lead at GDSC PUCIT 
+- 💻 ex Microsoft Learn Student Ambassador at Microsoft
+- 👩‍ Front End Web Developer
 - 💼 Former Web Development intern at interns.pk
 - 💼 Former Official Campus Ambassador at International MUN
 - ✍️ Part-time writer at iamfaatima.medium.com
